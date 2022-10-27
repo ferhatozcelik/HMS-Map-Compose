@@ -3,11 +3,10 @@
 <ul>
   <li>HMS stands for Huawei Mobile Services</li>
 </ul>
-Automatically Switch between HMS or GMS Map based on phone via IF/ELSE (Kotlin)
 
 |<img src="Screenshots/hms.jpg" width="280" height="600">|
 
-Huawei P20 Pro (GMS+HMS) Samsung Galaxy A32(GMS+HMS) 
+Huawei P20 Pro(HMS) Samsung Galaxy A32(HMS) 
 
 
 Author
